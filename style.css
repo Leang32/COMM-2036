@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(163, 35, 35);
+  }
+  h2{
+    color: rgb(8, 5, 5);
+  }
+  h3{color: rgb(163, 35, 35);}
+  *{background-image: url(guitar.jpg);
+background-size: cover;background-color: aliceblue;background-repeat: no-repeat;background-attachment: fixed;}
+p.serif{font-family: Georgia, 'Times New Roman', Times, serif;}
+p.sansserif{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+p.main {text-align: center;}
+h1{font-size: 60px;font-weight: bolder;text-decoration: underline;}
+h2{font-size: 20px;font-weight: lighter;font-family: Arial, Helvetica, sans-serif;line-height: 1;}
+h3{font-size: 45px;font-weight: bolder;text-decoration: underline;}
+h3{
+    position: relative;
+    left: 30px;
+}
+h4{
+    position: relative;
+    left: 45px;
+    font-size: 20px ;font-weight: lighter;
+    text-emphasis: none;
+    color:rgb(31, 21, 6)
+}
+h5{
+    font-size: medium; text-decoration: underline; color: rgb(32, 79, 173); font-family: Arial, Helvetica, sans-serif;
+}
+
+
